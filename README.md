@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🌍  I'm based in Canada
 * 🖥️  See my portfolio at [Keval Shetta](http://shettakeval20.github.io/kevalshetta.github.io/)
 * ✉️  You can contact me at [kevalshetta@gmail.com](mailto:kevalshetta@gmail.com)
-* 🚀  I'm currently working on [Travel Planner](http://github.com/ShettaKeval20/TravelPlanner)
+
 
 ### Skills
 
