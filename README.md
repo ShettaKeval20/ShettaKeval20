@@ -1,9 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Keval Shetta
+![image](https://github.com/user-attachments/assets/983bb919-5fda-4575-b38e-2a5f62ebd756)Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Keval Shetta
 ====================================================================================================================================
 
 * 🌍  I'm based in Canada
 * 🖥️  See my portfolio at [Keval Shetta](http://shettakeval20.github.io/kevalshetta.github.io/)
 * ✉️  You can contact me at [kevalshetta@gmail.com](mailto:kevalshetta@gmail.com)
+* 🧑🏻‍💻  Currently working on [Finame Android App](https://github.com/ShettaKeval20/FinMate01)
 
 
 ### Skills
