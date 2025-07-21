@@ -4,7 +4,7 @@
 * 🌍  I'm based in Canada
 * 🖥️  See my portfolio at [Keval Shetta](http://shettakeval20.github.io/kevalshetta.github.io/)
 * ✉️  You can contact me at [kevalshetta@gmail.com](mailto:kevalshetta@gmail.com)
-* 🧑🏻‍💻  Currently working on [Finame Android App](https://github.com/ShettaKeval20/FinMate01)
+* 🧑🏻‍💻  Currently working on [FinMate Android App](https://github.com/ShettaKeval20/FinMate01)
 
 
 ### Skills
